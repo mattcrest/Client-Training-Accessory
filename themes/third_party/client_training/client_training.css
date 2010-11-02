@@ -1,0 +1,21 @@
+.demo {
+	border-bottom: 2px solid #ccc;
+	padding-bottom: 20px;
+	margin: 10px 20px 10px 0;
+	float: left;
+ }
+ #main_content .demo h2 {
+ 	margin-left: 30px;
+ }
+ #main_content .demo p {
+ 	margin-left: 30px;
+ }
+ .video {
+   width: 360px;
+   height: 271px;
+   overflow: none;
+   margin: 10px auto;
+  }
+ .video_src {
+ 	display: none;
+ }
